@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-10-12T02:16:58.963Z",
+    "end": "2019-10-12T02:16:58.976Z",
+    "duration": 13
+  },
+  "tests": [
+    {
+      "title": "has a folder named my-repository",
+      "fullTitle": "this lab has a folder named my-repository",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a valid git repository initialized for the my-repository folder",
+      "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a README.md file in the my-repository folder",
+      "fullTitle": "this lab has a README.md file in the my-repository folder",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a folder named my-repository",
+      "fullTitle": "this lab has a folder named my-repository",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a valid git repository initialized for the my-repository folder",
+      "fullTitle": "this lab has a valid git repository initialized for the my-repository folder",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has a README.md file in the my-repository folder",
+      "fullTitle": "this lab has a README.md file in the my-repository folder",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
